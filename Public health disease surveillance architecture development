@@ -12,7 +12,7 @@ Secondly, I installed the OpenEMR 6.0.1 software from the official source and al
 
 LEVEL 3: GENERATION OF SYNTHEA PATIENT AND SYNDROMIC SURVEILLANCE DATA FOR HOSPITAL EHRs TO SIMULATE DISEASE OUTBREAK
 
-Next, I went into the process of generating synthetic patient and syndromic surveillance data for hospital EHR's. To do this, I downloaded Java Development Kit (JDK) and Synthea from the Github itself and extracted the ZIP file to a directory [https://github.com/synthetichealth/synthea/releases]. Further I proceeded into generating the patient data with Covid-19 simulation messages using specific commands in the terminal, which in turn generated the patient FHIR files with their information, including Covid-19 related events. 
+Next, I went into the process of generating synthetic patient and syndromic surveillance data for hospital EHR's. To do this, I downloaded Java Development Kit (JDK) and Synthea from the Github itself and extracted the ZIP file to a directory (https://github.com/synthetichealth/synthea/releases). Further I proceeded into generating the patient data with Covid-19 simulation messages using specific commands in the terminal, which in turn generated the patient FHIR files with their information, including Covid-19 related events. 
 
 LEVEL 4: INSTALLATION AND CONFIGURATION OF HAPI-FHIR SERVER
 

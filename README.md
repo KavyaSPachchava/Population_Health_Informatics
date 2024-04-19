@@ -9,7 +9,7 @@ Hi, I'M Kavya Sri Pachchava!!👋<br>
 
 
 ## 🌐 Socials:
-[!LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[[!LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 (www.linkedin.com/in/kavya-sri-pachchava-01622b216) 
 
 # 💻 Tech Stack:

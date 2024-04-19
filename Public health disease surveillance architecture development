@@ -1,0 +1,20 @@
+LEVEL 1: VIRTUAL MACHINE CONFIGURATION
+
+I started by creating five virtual machines, i.e., four hospitals (Aspirus hospital, portage health hospital, Baraga county memorial hospital, Marquette general hospital) and one HIE (Upper penninsula health information exchange) on VMware vSphere client. After setting up the VM's, I assigned unique IP addresses to each VM while ensuring they share a common IP address scheme. 
+REQUIREMENTS: VPN (BIG-IP Edge Client VPN) and HTML5 web browser (VMware vSphere)
+
+LEVEL 2: INSTALLATION, CONFIGURATION AND SECURITY OF OpenEMR
+
+Secondly, I installed the OpenEMR 6.0.1 software from the official source and also installed it for each VM with unbuntu server as the operating system. OpenEMR is highly customizable and allows an easy adaptation to diverse healthcare settings and needs.
+
+LEVEL 3: GENERATION OF SYNTHEA PATIENT AND SYNDROMIC SURVEILLANCE DATA FOR HOSPITAL EHRs TO SIMULATE DISEASE OUTBREAK
+
+Next, I went into the process of generating synthetic patient and syndromic surveillance data for hospital EHR's. To do this, I downloaded Java Development Kit (JDK) and Synthea from the Github itself and extracted the ZIP file to a directory [https://github.com/synthetichealth/synthea/releases]. Further I proceeded into generating the patient data with Covid-19 simulation messages using specific commands in the terminal, which in turn generated the patient FHIR files with their information, including Covid-19 related events. 
+
+LEVEL 4: INSTALLATION AND CONFIGURATION OF HAPI-FHIR SERVER
+
+Next, I downloaded the HAPI-FHIR server on UPHIE i.e., the HIE VM. Basically, HAPI-FHIR is an open-source implementation of the Fast Healthcare Interoperability Resources (FHIR) standard, designed to facilitate seamless data exchange and integration within the healthcare domain. Developed by HL7 international, FHIR is a modern, web-based standard that enables different healthcare systems to communicate effectively and securely. In the context of public healt diesease outbreak surveillance and monitoring, HAPI-FHIR has the ability to facilitate rapid, secure, and accurate information exchange. Moreover, by standardizing the way the data is collected, stored, and exchanged, HAPI-FHIR enables a more comprehensive understanding of disease patterns and trends. 
+
+LEVEL 5: FHIR DATA EXCHANGE WITH HAPI-FHIR
+
+In the last step, I installed POSTMAN by logging into HAPI-FHIR VM, which is a widely used collaboration platform and API development tool that simplifies the process of designing, testing, and documenting API's. It also empowers developers and teams to streamline their API workflow, from making HTTP requests and managing collections to debugging responses. Also, HAPI-FHIR comes with a swagger UI which helps us with the information about FHIR resources, endpoints, and operations that can be performed using the RESTful client.

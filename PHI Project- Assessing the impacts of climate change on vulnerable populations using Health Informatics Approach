@@ -1,0 +1,24 @@
+OBJECTIVES: 
+The research project aims to investigate the impact of climate change on the health of specific populations utilizing a health informatics approach. By analysing data related to VULNERABLE POPULATIONS such as outdoor workers, pregnant women, and individuals who have travelled to other countries, the study seeks to identify patterns and trends in health outcomes influenced by climate change. Through the utilization of health informatics tools and methodologies, such as data mining, predictive modelling, and geographic information systems (GIS), the research intends to provide valuable insights into the intersection of climate change and population health, aiding in the development of targeted interventions and adaptation strategies.
+
+METHODOLOGY:
+Our research employed a health informatics approach, integrating data from meteorology, geography, public health, and socio-economics. We utilized Geographic Information Systems (GIS) to map out vulnerabilities and analyze the risk factors associated with climate-induced health impacts. Data sources included census data, health determinants, climate data, and real-time environmental monitoring.
+
+TECHNOLOGIES USED: GIS (Geographic information systems)
+
+CHALLENGES FACED: 
+- One significant challenge that I encountered when preparing this project was the difficulty in gathering precise data and establishing correlations with other factors. This was mainly due to the lack of extensive research available on the specific vulnerable population I had selected. 
+
+FINDINGS: 
+Our findings indicate significant adverse impacts on health due to climate change, particularly among pregnant women:
+- Increased risks of preterm birth and low birth weight due to extreme weather events like hurricanes and floods.
+- Escalated incidences of diseases such as malaria and dengue fever due to changing weather patterns.
+- Greater vulnerability to food and water scarcity, leading to heightened risks of malnutrition and related health issues.
+Personal Contributions
+a) Data Analysis: Led the analysis of GIS data to pinpoint high-risk areas and populations most vulnerable to climate change.
+b) Literature Review: Conducted a comprehensive review of existing studies, contributing to the foundational understanding of climate impacts on health.
+c) References:
+- Ha S. (2022). The Changing Climate and Pregnancy Health. Curr Environ Health Rep. 9(2):263-275.
+- Girardi G., Bremer A.A. (2024). Climate and environmental changes exacerbate health disparities. Birth Defects Research 
+  116(2):e2313.
+- (https://health2016.globalchange.gov/populations-concern#narrative-134)

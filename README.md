@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'M Kavya Sri Pachchava!!👋
 
-<!--
-**KavyaSPachchava/KavyaSPachchava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently pursuing my masters degree with a major in HEALTH INFORMATICS at Michigan tech.
+- 💬 I have worked on some interesting projects in my first semester involving public health disease surveillance architecture development and assessing the impacts of 
+      climate change on vulnerable populations using a health informatics approach.  
+- 🌱 I’m currently learning python, population health informatics and system analysis and design as part of my studies in health informatics.
+- 🤔 I’m looking for help or guidance with advanced python programming, which will be beneficial for my upcoming courses in Machine Learning, artificial intelligence or any 
+      related courses.
+- 📫 How to reach me: kavyapachchava112002@gmail.com
+- 😄 Pronouns: She/her
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

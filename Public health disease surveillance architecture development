@@ -18,7 +18,7 @@ LEVEL 4: INSTALLATION AND CONFIGURATION OF HAPI-FHIR SERVER
 
 Next, I downloaded the HAPI-FHIR server on UPHIE i.e., the HIE VM. Basically, HAPI-FHIR is an open-source implementation of the Fast Healthcare Interoperability Resources (FHIR) standard, designed to facilitate seamless data exchange and integration within the healthcare domain. Developed by HL7 international, FHIR is a modern, web-based standard that enables different healthcare systems to communicate effectively and securely. In the context of public healt diesease outbreak surveillance and monitoring, HAPI-FHIR has the ability to facilitate rapid, secure, and accurate information exchange. Moreover, by standardizing the way the data is collected, stored, and exchanged, HAPI-FHIR enables a more comprehensive understanding of disease patterns and trends. 
 
-LEVEL 5: FHIR DATA EXCHANGE WITH HAPI-FHIR
+LEVEL 5: FHIR DATA EXCHANGE WITH HAPI-FHIR POSTMAN
 
 In the last step, I installed POSTMAN by logging into HAPI-FHIR VM, which is a widely used collaboration platform and API development tool that simplifies the process of designing, testing, and documenting API's. It also empowers developers and teams to streamline their API workflow, from making HTTP requests and managing collections to debugging responses. Also, HAPI-FHIR comes with a swagger UI which helps us with the information about FHIR resources, endpoints, and operations that can be performed using the RESTful client.
 

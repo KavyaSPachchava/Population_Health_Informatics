@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I'M Kavya Sri Pachchava!!👋<br>🎓 I'm currently pursuing my masters degree with a major in HEALTH INFORMATICS at Michigan tech.<br>💬 I have worked on some interesting projects in my first semester involving "Public health disease surveillance architecture development" and "Assessing the impacts of climate change on vulnerable populations using a health informatics approach".<br>🌱 I’m currently learning python, population health informatics and system analysis and design as part of my studies in health informatics.<br>🤔 I’m looking for help or guidance with advanced python programming, which will be beneficial for my upcoming courses in Machine Learning, artificial intelligence or any related courses.<br>📫 How to reach me: kavyapachchava112002@gmail.com<br>😄 Pronouns: She/her
+Hi, I'M Kavya Sri Pachchava!!👋<br>🎓 I'm currently pursuing my masters degree with a major in HEALTH INFORMATICS at Michigan technological university.<br>💬 I’m passionate about leveraging technology to improve public health outcomes.
+Some of the projects I’ve worked on include:
+• Public Health Disease Surveillance Architecture Development
+• Assessing the Impact of Climate Change on Vulnerable Populations Using Health Informatics.<br>🌱 Currently expanding my skills in Python, Population Health Informatics, Clinical Decision Support Systems, and AI in Healthcare.<br>🤔 ✨ I’ve been working on a few other exciting projects too - stay tuned, I’ll be sharing them here soon!<br>📫 How to reach me: kpachcha@mtu.edu<br>😄 Pronouns: She/her
 
 
 ## 🌐 Socials:
